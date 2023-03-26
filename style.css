@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    color: #999;
   }
   section{
     width: 100%;
@@ -11,7 +12,7 @@
   section h2{
     width: 100%;
     color: #999;
-    font-family: monospace;
+    font-family: Arial, Helvetica, Verdana;
   }
   .card{
     width: 31.111111%;
@@ -21,7 +22,7 @@
 /*estilos*/
 
   .estilo-c{
-    font-family: Rockwell, serif;
+    font-family: Arial, Helvetica, Verdana;
     width: 30%;
   }
   .estilo-c .img-container{
