@@ -18,13 +18,13 @@
     width: 31.111111%;
   }
 /*menú*/
-.menú{
+.menu{
 position: fixed;
 background-color: #FFFFFF;
 width: 100%;
 height: 200px;
 }
-.menú span{
+.menu span{
 font-size: 15px;
 color: black;
 }
