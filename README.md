@@ -1,6 +1,6 @@
 # Informacion
 
-FlipAnimations consiste en un grupo de animadores inexpertos y expertos por igual.
+Flipanimations consiste en un grupo de animadores inexpertos y expertos por igual.
 
 Estos animadores suben animaciones para recibir consejos, los mismos tambien aconsejan a los nuevos. Tambien estos, estan en busca de equipos para formar proyectos.
 
