@@ -24,6 +24,9 @@ background-color: white;
 width: 100%;
 height: auto;
 }
+.menú h2{
+display: inline-block;
+}
 /*estilos*/
 
   .estilo-c{
