@@ -18,7 +18,9 @@
     width: 31.111111%;
   }
 /*fondo*/
-
+body{
+background: linear-gradient(biue , red)
+}
 /*estilos*/
 
   .estilo-c{
