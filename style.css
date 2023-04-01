@@ -19,7 +19,7 @@
   }
 /*fondo*/
 body{
-background: linear-gradient(biue , red)
+background-image: linear-gradient(to right, biue , red)
 }
 /*estilos*/
 
