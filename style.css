@@ -17,8 +17,13 @@
   .card{
     width: 31.111111%;
   }
-/*fondo*/
-
+/*menú*/
+.menú{
+position: fixed;
+background-color: white;
+width: 100%;
+height: auto;
+}
 /*estilos*/
 
   .estilo-c{
@@ -80,3 +85,4 @@
     background-color: transparent;
     border: 1px solid black;
   }
+
