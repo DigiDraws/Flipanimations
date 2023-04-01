@@ -22,7 +22,11 @@
 position: fixed;
 background-color: #FFFFFF;
 width: 100%;
-height: auto;
+height: 200px;
+}
+.menú span{
+font-size: 15px;
+color: black;
 }
 
 /*estilos*/
