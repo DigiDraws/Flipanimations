@@ -18,7 +18,9 @@
     width: 31.111111%;
   }
 /*menú*/
-.menu{
+.menu{
+
+
 background-color: #FF8C00;
 width: 100%;
 height: 140px;
@@ -31,7 +33,10 @@ font-size: 40px;
 color: #000;
 }
 
-/*estilos*/
+/* Animaciones */
+
+
+/* Estilos */
 
   .estilo-c{
     font-family: Arial, Helvetica, Verdana;
