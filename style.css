@@ -37,7 +37,6 @@ body{
 
 .header .logo img:hover{
     transform: scale(1.1);
-    border-radius: 40%;
 }
 
 .header .nav-links{
