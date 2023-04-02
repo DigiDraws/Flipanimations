@@ -12,7 +12,7 @@ body{
     background-color: #fff59d;
 }
 
-.logo {
+.header .logo .Logo {
     height: 70px;
     width: 70px;
     border-radius: 50%;
