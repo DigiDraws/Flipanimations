@@ -18,5 +18,6 @@ Estos animadores suben animaciones para recibir consejos, los mismos tambien aco
 
 •Escribir un mensaje a cualquiera de los 2 números:
 +51 950 041 679
+<br>
 +598 91 279 672
 
