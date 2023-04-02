@@ -18,6 +18,9 @@ font-family: strong;
   background-color: #00FF34;
  width: 350px;
 height: 40px;
+padding-top: 10px;
+padding-bottom: 10px;
+box-shadow: 10 10 10 black;
 }
 
 body{
