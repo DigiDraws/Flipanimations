@@ -36,7 +36,7 @@ body{
 }
 
 .header .logo img:hover{
-    transform: scale(1.2);
+    transform: scale(0.5);
     border-radius: 40%;
 }
 
