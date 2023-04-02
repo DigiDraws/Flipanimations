@@ -77,6 +77,8 @@ body{
 
 /* Sobre Nosotros*/
 
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap");
+
 .nosotros-info {
   margin-bottom: 25px;
 }
