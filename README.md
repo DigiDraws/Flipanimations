@@ -14,3 +14,9 @@ Estos animadores suben animaciones para recibir consejos, los mismos tambien aco
 
 • Canal de Youtube: https://www.youtube.com/@flipanimationsgroupchanel
 
+#Participar
+
+•Escribir un mensaje a cualquiera de los 2 números:
++51 950 041 679
++598 91 279 672
+
