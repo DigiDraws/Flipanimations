@@ -12,23 +12,6 @@ body{
     background-color: #fff59d;
 }
 
-/* Menu */
-
-/* Menu */
-.menu{
-}
-background-color: #FF8C00;
-width: 100%;
-height: 140px;
-display: flex;
-justify-content: space-between;
-}
-
-.menu h2{
-font-size: 40px;
-color: #000;
-}
-
 .header{
     background-color: #1b3039;
     display: flex;
