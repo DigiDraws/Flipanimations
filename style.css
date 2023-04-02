@@ -12,11 +12,12 @@
 }
 
 .nosotros-btn{
- font-size: 20px;
-  border-radius: 15px;
+ font-size: 30px;
+font-family: strong;
+  border-radius: 30px;
   background-color: #00FF34;
- width: 140px;
-height: 90px;
+ width: 350px;
+height: 40px;
 }
 
 body{
