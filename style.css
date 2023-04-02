@@ -11,6 +11,11 @@
  text-align:center;
 }
 
+.nosotros-btn{
+  border-radius: 10px;
+  background-color: green;
+}
+
 body{
     background-color: #fff59d;
 }
