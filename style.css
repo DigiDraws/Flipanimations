@@ -12,8 +12,10 @@
 }
 
 .nosotros-btn{
-  border-radius: 10px;
-  background-color: green;
+  border-radius: 15px;
+  background-color: #00FF34;
+ width: 60px;
+height: 40px;
 }
 
 body{
