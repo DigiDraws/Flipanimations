@@ -32,10 +32,12 @@ body{
     height: 70px;
     width: auto;
     transition: all 0.3s;
+    border-radius: 50%;
 }
 
 .header .logo img:hover{
     transform: scale(1.2);
+    border-radius: 40%;
 }
 
 .header .nav-links{
