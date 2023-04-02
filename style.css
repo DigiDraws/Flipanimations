@@ -11,13 +11,6 @@
 body{
     background-color: #fff59d;
 }
-
-.header .logo .Logo {
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
-}
-
 .header{
     background-color: #1b3039;
     display: flex;
@@ -30,6 +23,9 @@ body{
 .header .logo{
     cursor: pointer;
     margin-right: auto;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
 }
 
 .header .logo img{
