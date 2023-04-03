@@ -123,17 +123,21 @@ body{
 }
 
 .nosoton{
-  background-color: var(--primary-color);
-  color: var(--text-color-inverse);
-  border: none;
-  font-size: 20px;
-  padding: 0.5em 1em;
-  border-radius: 7px;
-  cursor: pointer;
+    margin-left: 20px;
+    font-weight: 700;
+    color: #1b3039;
+    padding: 9px 25px;
+    background: #eceff1;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
 }
 
 .nosoton:hover {
-  filter: brightness(130%);
+    background-color: #e2f1f8;
+    color: #ffbc0e;
+    transform: scale(1.1);
 }
 
 @media (min-width: 950px) {
@@ -166,7 +170,15 @@ body{
   }
   
   .nosoton-btn {
-    font-size: 28px;
+    margin-left: 20px;
+    font-weight: 700;
+    color: #1b3039;
+    padding: 9px 25px;
+    background: #eceff1;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
   }
 }
 
