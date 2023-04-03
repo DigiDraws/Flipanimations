@@ -184,6 +184,15 @@ body{
 }
 
 /* Animaciones */
+  
+.animations{
+ overflow: auto;
+}
+
+.animations iframe{
+  width: 100%;
+height: auto;
+}
 
   section{
     margin-top: 5px;
@@ -202,7 +211,7 @@ body{
   .card{
     width: 31.111111%;
   }
-
+  
 /* Estilos */
 
   .estilo-c{
