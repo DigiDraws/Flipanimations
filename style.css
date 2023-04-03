@@ -186,7 +186,7 @@ body{
 /* Animaciones */
   
 .animations{
- overflow: auto;
+ overflow: scroll;
 }
 
 .animations iframe{
