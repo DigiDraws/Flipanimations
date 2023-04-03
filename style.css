@@ -81,7 +81,8 @@ body{
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
 
 .nosotros-info {
-  margin-bottom: 1px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .nosotros-img {
@@ -185,6 +186,8 @@ body{
 /* Animaciones */
 
   section{
+    margin-top: 5px;
+    margin-bottom: 5px;
     width: 100%;
     display: flex;
     justify-content: space-around;
