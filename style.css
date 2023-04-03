@@ -9,8 +9,9 @@
 }
 
 body{
-    background-color: #fff59d;
+    background-color: #eceff1;
 }
+
 .header{
     background-color: #1b3039;
     display: flex;
@@ -109,7 +110,7 @@ body{
   font-size: 35px;
   font-weight: bold;
   margin: 0;
-  color: var(--primary-color);
+  color: #1b3039;
   font-family: "Nunito", sans-serif;
 }
 
