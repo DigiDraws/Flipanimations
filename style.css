@@ -125,7 +125,7 @@ body{
 .nosoton{
     margin-left: 20px;
     font-weight: 700;
-    color: #1b3039;
+    color: red;
     padding: 9px 25px;
     background: #1b3039;
     border: none;
@@ -136,7 +136,7 @@ body{
 
 .nosoton:hover {
     background-color: #e2f1f8;
-    color: #ffbc0e;
+    color: red;
     transform: scale(1.1);
 }
 
