@@ -185,7 +185,7 @@ body{
 
 /* Animaciones */
   
-.animations{
+section{
  overflow: scroll;
 }
 
