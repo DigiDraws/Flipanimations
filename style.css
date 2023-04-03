@@ -122,7 +122,7 @@ body{
   margin: 20px auto;
 }
 
-.nosotros-btn {
+.nosoton{
   background-color: var(--primary-color);
   color: var(--text-color-inverse);
   border: none;
@@ -132,7 +132,7 @@ body{
   cursor: pointer;
 }
 
-.nosotros-btn:hover {
+.nosoton:hover {
   filter: brightness(130%);
 }
 
@@ -165,7 +165,7 @@ body{
     margin: 30px 0;
   }
   
-  .nosotros-btn {
+  .nosoton-btn {
     font-size: 28px;
   }
 }
