@@ -206,10 +206,7 @@ body{
   }
   
 /* Estilos */
-section iframe{
-display: flex;
-overflow: auto
-}
+
   .estilo-c{
     font-family: Arial, Helvetica, Verdana;
     width: 30%;
