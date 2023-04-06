@@ -208,68 +208,16 @@ body{
 /* Estilos */
 
 
-
-#bs{
-display: flex;
-border-radius: 15px;
+.animations{
+  overflow: auto
+width: 100%;
 }
-  .estilo-c{
-    font-family: Arial, Helvetica, Verdana;
-    width: 30%;
-  }
-  .estilo-c .img-container{
-    overflow: hidden;
-    height: 250px;
-    position: relative;
-    border-radius: 15px;
-  }
-  .estilo-c .img-container img{
-    width: 105%;
-    position: absolute;
-    top: -60%;
-    transition: all 0.5s;
-  }
-  .estilo-c:hover .img-container img{
-    transform: scale(1.2);
-  }
-  .estilo-c .img-container .promo{
-    position: absolute;
-    top: 10px;
-    left: 0;
-    font-size: 20px;
-    background: yellow;
-    padding: 15px;
-    color: black;
-    border-bottom-right-radius: 25px;
-    border-top-right-radius: 25px;
-  }
-  .estilo-c .info-container{
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    justify-content: center;
-  }
-  .estilo-c .info-container h3{
-    margin: 0;
-  }
-  .estilo-c .info-container h3,
-  .estilo-c .info-container strong,
-  .estilo-c .info-container span{
-    padding: 5px 15px;
-    width: 100%;
-  }
-  .estilo-c .add-cart{
-    margin-top: 2px;
-    text-decoration: none;
-    color: white;
-    background-color: black;
-    padding: 15px;
-    border: 1px solid black;
-    border-radius: 25px;
-  }
-  .estilo-c .add-cart:hover{
-    color: black;
-    background-color: transparent;
-    border: 1px solid black;
-  }
+
+.animations iframe{
+border-radius: 15px
+display: flex;
+width: 100%;
+}
+
+
 
