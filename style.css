@@ -207,6 +207,12 @@ body{
   
 /* Estilos */
 
+
+
+#bs{
+display: flex;
+border-radius: 15px;
+}
   .estilo-c{
     font-family: Arial, Helvetica, Verdana;
     width: 30%;
