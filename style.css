@@ -221,3 +221,36 @@ body{
 }
 
 
+/*zona de descargas*/
+.descargar{
+    
+    border-radius: 10px;
+    height: 450px;
+    display: block
+}
+
+
+.descargar h1{
+    text-align: center;
+}
+.descargar a h2{
+    border-radius: 15px;
+    background: #4b4b4b;
+    color: white;
+    width: 40%;
+    padding: 10 10 10 10;
+   
+}
+.descargar a{
+    text-decoration: none;   
+}
+
+.descargar img{
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    height: 250px;
+    width: 250px;
+}
+
+
