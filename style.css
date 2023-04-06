@@ -215,8 +215,8 @@ body{
   height: 100%;
 }
 .container iframe {
-  width:50%;
-  height: 100%;
+  width:100%;
+  height: auto;
   border-radius: 30px;
 }
 
