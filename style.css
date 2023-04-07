@@ -277,14 +277,14 @@ body{
 
 @media(min-width: 902px){
     .footer div{
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 90px;
+        margin-right: 90px;
     }
 }
 @media(max-width: 901px){
     .footer div{
-        margin-left: 90px;
-        margin-right: 90px;
+        margin-left: 80px;
+        margin-right: 80px;
     }
 }
 @media(max-width: 841px){
