@@ -185,6 +185,8 @@ body{
 
 
 /* Animaciones */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
   
 
   section{
@@ -199,9 +201,11 @@ body{
   }
   section h2{
     padding-top: 30px;
-    width: 100%;
-    color: #999;
-    font-family: Arial, Helvetica, Verdana;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0;
+    color: #1b3039;
+    font-family: "Nunito", sans-serif;
   }
   .card{
     width: 31.111111%;
