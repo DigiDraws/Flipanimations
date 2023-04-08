@@ -199,13 +199,14 @@ body{
     padding: 50px 0;
     overflow: auto;
   }
-  section h2{
-    padding-top: 30px;
-    font-size: 35px;
+  section h1{
+    padding-top: 50px;
+    padding-bottom: 50px;
     font-weight: bold;
     margin: 0;
     color: #1b3039;
     font-family: "Nunito", sans-serif;
+    font-size: 35px;
   }
   .card{
     width: 31.111111%;
