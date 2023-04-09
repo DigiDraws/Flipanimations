@@ -15,7 +15,6 @@ body{
 .header{
     position: fixed;
     background-color: #1b3039;
-    display: flex;
     justify-content: flex-end;
     align-items: center;
     height: 85px;
@@ -36,8 +35,18 @@ body{
     transition: all 0.3s;
     border-radius: 50%;
 }
+
+.header .nav{
+    display:grid;
+    align-items: center;
+    position:fixed;
+    top:0;
+    width:100%;
+}
+
 .header .nav-links{
     list-style: none;
+    position:fixed;
 }
 
 .header .nav-links li{
