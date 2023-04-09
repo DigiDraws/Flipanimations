@@ -22,9 +22,6 @@ body{
     align-items: center;
     height: 85px;
     padding: 5px 10%;
-    position: sticky;
-    top: 0;
-    overflow: hidden;
 }
 
 .header .logo{
@@ -44,7 +41,9 @@ body{
 
 .header .nav-links{
     list-style: none;
-    position:fixed;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
 }
 
 .header .nav-links li{
