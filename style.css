@@ -41,9 +41,6 @@ body{
 
 .header .nav-links{
     list-style: none;
-    position: sticky;
-    top: 0;
-    overflow: hidden;
 }
 
 .header .nav-links li{
