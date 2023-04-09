@@ -22,8 +22,9 @@ body{
     align-items: center;
     height: 85px;
     padding: 5px 10%;
-    position: fixed;
+    position: sticky;
     top: 0;
+    overflow: hidden;
 }
 
 .header .logo{
