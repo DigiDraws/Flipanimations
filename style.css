@@ -13,6 +13,7 @@ body{
 }
 
 .header{
+    position: fixed;
     background-color: #1b3039;
     display: flex;
     justify-content: flex-end;
