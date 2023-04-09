@@ -1,19 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
 
-html{
-    scroll-behavior: smooth;
-}
-
 *{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: 'Nunito', sans-serif;
-    font-size: 20px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
 }
 
-body{
-    background-color: #eceff1;
+html, body{
+  background-color: #eceff1;
+  scroll-behavior: smooth;
 }
 
 .header{
@@ -22,6 +19,7 @@ body{
     align-items: center;
     height: 85px;
     padding: 5px 10%;
+    display: flex;
 }
 
 .header .logo{
@@ -221,21 +219,35 @@ body{
     margin-left: 450px;
     text-align: center;
   }
-/* Estilos */
 
-
-.container {
+  .container {
   display: flex;
   overflow-x: auto;
   width: 70%;
   height: 310px;
   margin-left: 230px;
 }
-.container iframe {
+  .container iframe {
   width: 900px;
   height: 280px;
   margin: 5px;
   border-radius: 20px;
+}
+
+@media (max-width: 950px) {
+  h1.Animaciones{
+    font-size: 30px;
+  }
+  .AnimText{
+    margin-left: 100px;
+    text-align: center;
+    max-width: 300px;
+    font-size: 15px;
+  }
+  .container{
+    width: 310px;
+    margin-left: 100px;
+  }
 }
 
 
@@ -261,11 +273,11 @@ body{
 
 
 .descargar h1{
-    text-align: center;
-    font-size: 40px;
-    font-weight: bold;
-    color: #1b3039;
-    font-family: "Nunito", sans-serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  color: #1b3039;
+  font-family: "Nunito", sans-serif;
 }
 
 .download-btn{
@@ -283,6 +295,30 @@ body{
 
 .download-btn:hover{
   background-color: #0f1b20;
+}
+
+@media (max-width: 950px) {
+.descargar{
+  max-width: 850px;
+}
+.descargar p{
+  font-size: 15px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 30px;
+  }
+  .descargar img{
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 0px;
+  }
+  .download-btn{
+    float: left;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 250px;
+    margin-right: 0px;
+    }
 }
 
 .descargar img{
